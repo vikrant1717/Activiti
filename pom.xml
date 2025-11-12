@@ -232,6 +232,8 @@
       ${project.build.directory}/generated-test-sources/assertions
     </generated-assertions-folder>
     <generated-assertions-package>org.activiti.test</generated-assertions-package>
+      <sonar.organization>vikrant1717</sonar.organization>
+
   </properties>
   <dependencyManagement>
     <dependencies>
